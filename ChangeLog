@@ -1,0 +1,32 @@
+1.1 - "Happy new year" - 01/01/11
+
+Add debian directory to make .deb
+
+1.1rc1 - "Happy new year" - 28/12/10
+
+Add save file function
+Disabled repeat key
+Change cursor
+Prevent children change desktop
+Add translation
+New git repository: http://gitorious.org/gamine/gamine/
+
+1.0rc2 - "Juliette prefers keys..." - 02/03/09
+
+Error in the name of the script gamine-zephyr.sh
+Add gamine.svg
+Small correction in gamine.c
+Correction in gamine.schemas
+
+1.0rc1 - "Juliette prefers keys..." - 28/02/08
+
+Add keyboard ;
+Should be display in fullscreen without window manager
+Add gconf dependance and key (see the README)
+New script to launch gamine un zephyr
+Correction of bugs
+Easiest to install
+
+0.0.1 - "raaaAAHHHH Eleonie!" - 11/25/07
+
+First public version
